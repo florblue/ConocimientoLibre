@@ -1,0 +1,19 @@
+.reveal p, li {
+	color:chartreuse !important;
+}
+.reveal section img {
+
+	max-height:500px;
+}
+.reveal .slide-background {
+	background-size:cover;
+	background:url("img/pg-bg-camaras-1.png") center top;
+}
+
+h1.title {
+	font-size:2.5em;
+}
+
+.reveal h2 {
+	font-size:1.5em;
+}
