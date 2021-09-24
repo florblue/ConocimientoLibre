@@ -16,6 +16,9 @@
 - [Qué es un servidor web?](https://developer.mozilla.org/es/docs/Learn/Common_questions/Que_es_un_servidor_WEB)
 - [Frontend y Backend breve](https://devcode.la/blog/frontend-y-backend)
 
+### Comenzando a programar
+  - [Introducción a la programación con Python](https://cscircles.cemc.uwaterloo.ca/)
+
 ### Práctica
   - [Cómo crear un sitio web? HTML + CSS + JS + BBDD](https://codigofacilito.com/cursos/primera_pagina?app=true)
   - [Introducción a HTML/CSS: hacer páginas web ~ Tutorial en videos](https://es.khanacademy.org/computing/computer-programming/html-css)
